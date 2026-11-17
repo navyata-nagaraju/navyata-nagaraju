@@ -1,16 +1,21 @@
-## Hi there 👋
+# Navyata Nagaraju
 
-<!--
-**navyata-nagaraju/navyata-nagaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying for an **MSc in Generative AI at the University of Exeter**, after nearly seven years delivering Openreach's full fibre broadband programme with Tech Mahindra.
 
-Here are some ideas to get you started:
+- Learning deep learning, generative models, LLMs and data science at scale
+- Working in Python, PyTorch, TensorFlow, pandas and Google Cloud
+- Background in network planning, quality assurance and coordinating field teams
+- Currently learning: LLM applications and retrieval-augmented generation (RAG)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it shows |
+|---|---|
+| [Fashion-MNIST DNN experiments](https://github.com/navyata-nagaraju/fashion-mnist-dnn-experiments) | Controlled deep learning experiments in PyTorch, 94.4% accuracy |
+| [VAE and DCGAN image generation](https://github.com/navyata-nagaraju/vae-dcgan-image-generation) | Generative models compared with FID |
+| [TensorFlow model on Google Cloud](https://github.com/navyata-nagaraju/tensorflow-model-on-google-cloud) | Deploying a model to a live cloud endpoint |
+| [Solar panel trade network](https://github.com/navyata-nagaraju/solar-panel-trade-network) | Network analysis of 219 countries with NetworkX |
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/navyata-nagaraju)
