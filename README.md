@@ -3,19 +3,17 @@
 I'm studying for an **MSc in Generative AI at the University of Exeter**, after nearly seven years delivering Openreach's full fibre broadband programme with Tech Mahindra.
 
 - Learning deep learning, generative models, LLMs and data science at scale
-- Working in Python, PyTorch, TensorFlow, pandas and Google Cloud
+- Working in Python, PyTorch, TensorFlow, pandas, JavaScript and Google Cloud
 - Background in network planning, quality assurance and coordinating field teams
-- Currently learning: LLM applications and retrieval-augmented generation (RAG)
+- Currently building: LLM applications with retrieval-augmented generation (RAG)
 
 ## Projects
 
-| Project | What it shows |
-|---|---|
-| [Fashion-MNIST DNN experiments](https://github.com/navyata-nagaraju/fashion-mnist-dnn-experiments) | Controlled deep learning experiments in PyTorch, 94.4% accuracy |
-| [VAE and DCGAN image generation](https://github.com/navyata-nagaraju/vae-dcgan-image-generation) | Generative models compared with FID |
-| [TensorFlow model on Google Cloud](https://github.com/navyata-nagaraju/tensorflow-model-on-google-cloud) | Deploying a model to a live cloud endpoint |
-| [Solar panel trade network](https://github.com/navyata-nagaraju/solar-panel-trade-network) | Network analysis of 219 countries with NetworkX |
+**[Open Study Studio](https://github.com/navyata-nagaraju/open-study-studio)** · [Try it live](https://navyata-nagaraju.github.io/open-study-studio/)
+
+An AI study tutor that runs entirely in the browser. Upload your lecture notes and it builds a daily study plan, teaches each topic from your own notes using BM25 retrieval and an LLM (RAG), sets practice questions that get harder as your scores rise, and marks your answers.
+
+More projects from my MSc will be added soon.
 
 ## Contact
-
 [LinkedIn](https://www.linkedin.com/in/navyata-nagaraju)
